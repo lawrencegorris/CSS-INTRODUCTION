@@ -122,7 +122,16 @@ ul {
 }
 
 #links {
+    margin-top: 25px;
     text-align: center;
+}
+
+a {
+    font-weight: 700;
+    color: #fefefe;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 25px;
 }
 
 h5{
