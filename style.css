@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 auto;
+    background-color:#101010;
+}
+
+#first{
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 500px;
+
+}
+
+p, td, li {
+    font-family: Roboto, sans-serif;
+    
+}
+
+p{
+    text-align: center;
+    color: #fefefe;
+}
+
+#banner {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: block;
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    font-size: 85px;
+    text-align: right;
+    color: #fefefe;
+    margin-right: 25px;
+    
+}
+
+#lastName {
+    display: inline-block;
+} 
+
+h2, h4, h5, h6 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 25px;
+    text-align: center;
+    color: #fefefe;
+}
+
+img {
+    display: inline-block;
+    border-radius: 75%;
+
+
+}
+
+#quote {
+    margin-bottom: 50px;
+    text-align: center;
+    color: #fefefe;
+    font-size: 30px;
+}
+
+
+table, table th, table tr,  tr, td{ 
+    border: 1px solid #fefefe;
+    text-align: center;
+    margin: 10px;
+    color: #fefefe;
+}
+
+table {
+    margin: 0 auto;
+    margin-top: 25  0px;
+    
+}
+
+th, tr, td {
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#infoBlock {
+    width: 620px;
+    margin: 0 auto;
+    display: flex;
+}
+
+#hobbyBlock{
+    text-align: left;
+    margin-right: 65px;
+    width: 250px;
+}
+
+h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 25px;
+
+    color: #fefefe;
+}
+
+ul {
+    text-align: left;
+    margin-left: 15px;
+    color: #fefefe;
+}
+
+#countBlock p, h4{
+    display: block;
+    text-align: right;
+    width: 250px;
+    margin-right: -7px;
+
+}
+
+#links {
+    text-align: center;
+}
